@@ -23,7 +23,7 @@ p{
     color: #c8dfea;
 }
 .bd-container{
-    width: 1250px;
+    width: 1170px;
     margin: 0 auto;
 }
 .fexiable-area{
@@ -80,7 +80,7 @@ nav ul li a{
     background-size: cover;
 }
 #about-img{
-    width: 100%;
+    width: 108%;
 }
 .text-area {
     text-align: center;
@@ -90,7 +90,7 @@ nav ul li a{
     font-size: 40px;
 }
 .items{
-    width: 25%;
+    width: 28%;
     box-shadow: rgb(0 0 0 / 50%) 8px 7px 15px;
     border-radius: 20px;
     margin-left: 100px;
@@ -99,7 +99,7 @@ nav ul li a{
     margin-left: 0;
 }
 .items .item-img{
-    width: 270px;
+    width: 280px;
     height: 190px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -129,8 +129,25 @@ nav ul li a{
 
 .item-text p {
     margin-top: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
+
+#follower-sec{
+    box-shadow: 2px 2px 20px rgba(0,0,0,0.2);
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.foll-item{
+    margin-left: 180px;
+}
+.foll-item h1{
+    margin-bottom: 0;
+}
+.foll-item p{
+    margin-bottom: 35px;
+}
+
 #contact_sec{
     width: 100%;
     height: 550px;
